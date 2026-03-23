@@ -1,31 +1,38 @@
-🚀 Java - Exercícios de Estruturas Condicionais e Lógica de Programação
+🔁 Estruturas Condicionais em Java
 
-🔹 Exercício 1 – Verificação de Número Positivo ou Negativo
-Programa que solicita ao usuário um número inteiro e informa se ele é positivo ou negativo.
+📌 Descrição
+Este repositório reúne uma série de exercícios desenvolvidos em Java com o objetivo de praticar estruturas condicionais (if/else e switch), além do uso de entrada de dados.
 
-🔹 Exercício 2 – Verificação de Número Par ou Ímpar
-Programa que solicita ao usuário um número inteiro e verifica se ele é par ou ímpar utilizando o operador de resto da divisão (%).
+Os exercícios abordam diferentes situações práticas, como validação de valores, operações matemáticas, classificação e controle de fluxo.
 
-🔹 Exercício 3 – Verificação de Números Múltiplos
-Programa que solicita dois números inteiros e verifica se um é múltiplo do outro.
+🚀 Exercícios
 
-🔹 Exercício 4 – Duração de uma Partida
-Programa que recebe o horário inicial e final de uma partida e calcula a duração do jogo em horas, considerando que ele pode atravessar a meia-noite.
+🔹 Exercício 1 – Número Positivo ou Negativo
+Programa que solicita um número inteiro e informa se ele é positivo ou negativo.
 
-🔹 Exercício 5 – Sistema de Pedido (Lanchonete/Pizzaria)
-Programa que exibe um menu de produtos com seus respectivos preços, permite ao usuário escolher um item e a quantidade desejada, e calcula o valor total da compra.
+🔹 Exercício 2 – Número Par ou Ímpar
+Programa que verifica se um número é par ou ímpar utilizando o operador %.
 
-🔹 Exercício 6 – Verificação de Intervalo de Números
-Programa que recebe um valor numérico e verifica em qual intervalo ele se encontra ([0,25], [25,50], [50,75], [75,100]) ou se está fora desses intervalos.
+🔹 Exercício 3 – Números Múltiplos
+Programa que recebe dois números e verifica se um é múltiplo do outro.
 
-🔹 Exercício 7 – Localização no Plano Cartesiano
-Programa que recebe dois valores (X e Y) e determina em qual quadrante do plano cartesiano o ponto se encontra ou se está na origem.
+🔹 Exercício 4 – Duração de Jogo
+Programa que calcula a duração de uma partida com base no horário inicial e final, considerando virada de dia.
 
-🔹 Exercício 8 – Cálculo de Imposto de Renda
-Programa que recebe o valor de um salário e calcula o imposto de renda com base em faixas salariais progressivas, exibindo o valor a ser pago ou informando se o usuário está isento.
+🔹 Exercício 5 – Sistema de Pedido
+Programa que simula um menu de lanchonete, permitindo escolher produtos e calcular o valor total.
+
+🔹 Exercício 6 – Intervalo de Valores
+Programa que verifica em qual intervalo um número se encontra ou se está fora deles.
+
+🔹 Exercício 7 – Plano Cartesiano
+Programa que identifica em qual quadrante um ponto (X, Y) está localizado ou se está na origem.
+
+🔹 Exercício 8 – Cálculo de Imposto
+Programa que calcula o imposto de renda com base em faixas salariais progressivas.
 
 🔹 Exercício 9 – Dia da Semana
-Programa que recebe um número de 1 a 7 e informa o dia da semana correspondente utilizando a estrutura switch.
+Programa que recebe um número de 1 a 7 e retorna o dia da semana correspondente utilizando switch.
 
 🖥️ Tecnologias Utilizadas
 Java
